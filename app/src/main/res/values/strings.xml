@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">TataEksa</string>
+    <string name="isi_nama_penangung_jawab">Isi Nama Penangung Jawab</string>
+    <string name="isi_nomor_telepon_wna">Isi Nomor Telepon WNA</string>
+    <string name="nomor_telepon">Nomor Telepon</string>
+    <string name="penangung_jawab">Penangung Jawab</string>
+    <string name="isi_nama_perusahaan">Isi Nama Perusahaan</string>
+    <string name="perusahaan_wna_akan_bekerja">Perusahaan WNA akan Bekerja</string>
+    <string name="isi_nama_wna">Isi Nama WNA</string>
+    <string name="nama_wna">Nama WNA</string>
+    <string name="email">Email</string>
+    <string name="isi_email_wna">Isi Email WNA</string>
+    <string name="pengisian_data">Pengisian Data</string>
+    <string name="berikutnya">BERIKUTNYA</string>
+    <string name="todo1">TODO</string>
+    <string name="rptka">RPTKA</string>
+    <string name="jenis_dokumen">Jenis Dokumen</string>
+    <string name="unggah_berkas_yang_dibutuhkan_untuk_proses_pembuatan_dokumen">* Unggah berkas yang dibutuhkan untuk proses pembuatan dokumen</string>
+    <string name="verifikasi_dokumen">Verifikasi Dokumen</string>
+    <string name="upload_ijazah">Upload Ijazah</string>
+    <string name="visa">VISA</string>
+    <string name="upload_visa">Upload VISA</string>
+    <string name="kitas">KITAS</string>
+    <string name="upload_kitas">Upload Kitas</string>
+    <string name="berikutnya1">BERIKUTNYA</string>
+    <string name="pasport">PASPOR</string>
+    <string name="upload_pasport">Upload Paspor</string>
+    <string name="ijazah">IJAZAH</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="pemberitahuan_mengenai_process_akan_muncul_di_aplikasi">Pemberitahuan mengenai proses akan muncul di aplikasi</string>
+    <string name="setelah_pengecekan_berkas">setelah pengecekan berkas</string>
+    <string name="kembali_ke_halaman_pertama">Kembali Ke Halaman Pertama</string>
+    <string name="lanjut">LANJUT</string>
+    <string name="pemberitahuan_mengenai_process">Pemberitahuan mengenai proses</string>
+    <string name="akan_muncul_di_aplikasi">akan muncul di aplikasi</string>
+    <string name="todo">TODO</string>
+    <string name="Artikel">Artikel</string>
+    <string name="Artikel1">Syarat Penggunaan RPTKA Baru</string>
+    <string name="isiartikel1">a. Alasan penggunaan TKA
+    b. Formulir RPTKA yang sudah diis.....</string>
+    <string name="isianartikel1">a. Alasan penggunaan TKA\n
+
+    b. Formulir RPTKA yang sudah diisi\n
+
+    c. Surat Izin Usaha dari instansi yang berwenang\n
+
+    e. Akta dan keputusan pengesahan pendirian dan/atau perubahan dari instansi yang berwenang\n
+
+    f. Bagan struktur organisasi perusahaan\n
+
+    g. Rekomendasi jabatan yang akan diduduki oleh TKA dari instansi teknis sesuai dengan peraturan yang berlaku di instansi teknis terkait\n
+
+    h. Keterangan domilisi perusahaan dari pemerintah daerah setempat\n
+
+    i. Nomor Pokok Wajib Pajak pemberi kerja TKA\n
+
+    j. Surat penunjukan TKI pendamping dan rencana program pendampingan\n
+
+    k. Surat penyataan untuk melaksanakan pendidikan dan pelatihan kerja bagi TKI sesuai dengan kualifikasi jabatan yang diduduki oleh TKA\n
+
+    l. Bukti wajib lapor ketenagakerjaan yang masih berlakuk sesuai Undang-Undang Nomor 7 Tahun 1981</string>
+    <string name="halaman1">Halaman 1 dari 2</string>
+    <string name="halaman2">Halaman 2 dari 2</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="todo10">TODO</string>
+    <string name="todo11">TODO</string>
+    <string name="todo12">TODO</string>
+    <string name="nama">Nama</string>
+    <string name="id">Id</string>
+    <string name="keluar">Keluar</string>
+    <color name="white">#FFFFFF</color>
+</resources>
