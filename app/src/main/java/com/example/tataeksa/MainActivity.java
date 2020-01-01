@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
-                Intent int3 = new Intent(MainActivity.this, Article1.class);
+                Intent int3 = new Intent(MainActivity.this, daftar_booking.class);
                 startActivity(int3);
 
         }
