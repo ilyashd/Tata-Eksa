@@ -57,7 +57,7 @@
         android:layout_width="70dp"
         android:layout_height="19dp"
         android:layout_marginStart="64dp"
-        android:text="No.Tlvn"
+        android:text="No Hp"
         app:layout_constraintEnd_toStartOf="@+id/textView22"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView19" />
@@ -89,12 +89,12 @@
         android:id="@+id/back"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="234dp"
+        android:layout_marginTop="204dp"
         android:backgroundTint="@android:color/background_light"
         android:text="@string/kembali_ke_halaman_pertama"
         android:textColor="#FF000A"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.94"
+        app:layout_constraintHorizontal_bias="0.444"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView20" />
 
